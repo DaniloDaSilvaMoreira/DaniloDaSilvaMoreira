@@ -1,8 +1,11 @@
 ### Olá! Eu sou o Danilo da Silva👋
 
 <div align="center">
-![DaniloDaSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloDaSilvaMoreira&show_icons=true&theme=dracula&count_private=true)
+  <a href="https://github.com/DaniloDaSilvaMoreira">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DaniloDaSilvaMoreira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloDaSilvaMoreira&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+    
 ## Technologies I use in my day 👨‍💻
 
 <div align="center">
@@ -12,7 +15,7 @@
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <br/>
+
   _**i'm interested about technology.**_
   
 </div>

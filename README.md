@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Danilo da Silva👋
 
-![DaniloDaSilvaMoreira GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloDaSilvaMoreira&show_icons=true&theme=dracula&count_private=true)
+![DaniloDaSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloDaSilvaMoreira&show_icons=true&theme=dracula&count_private=true)
   
 ## Technologies I use in my day 👨‍💻
 
